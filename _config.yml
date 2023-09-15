@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: TheOne|博客
 subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+description: 占得人间一味愚
+keywords: 
+language: zh-CN
+author: TheOne
 timezone: ''
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
 
 # 站点部署到github要配置Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
