@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-09-14T08:54:28.171Z</updated>
+  <updated>2023-09-18T09:08:42.775Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,55 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python基础</title>
+    <link href="http://example.com/2023/09/18/python%E5%9F%BA%E7%A1%80/"/>
+    <id>http://example.com/2023/09/18/python%E5%9F%BA%E7%A1%80/</id>
+    <published>2023-09-18T09:02:06.538Z</published>
+    <updated>2023-09-18T09:08:42.775Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="过程-amp-对象"><a href="#过程-amp-对象" class="headerlink" title="过程&amp;对象"></a><strong>过程&amp;对象</strong></h1><ul><li>面向过程：按步骤用函数实现，依次调用。</li><li>面向对象：事务分解成对象，并为其建立相应的行为。特点是 封装、继承、多态</li></ul><h1 id="Python优缺点"><a href="#Python优缺点" class="headerlink" title="Python优缺点"></a><strong>Python优缺点</strong></h1><ul><li>免费开源可移植</li><li>自动内存管理</li><li>解释型语言简单易懂、但运行速度慢。</li><li>库丰富，可扩展，与其他语言或软件可连接；由于是动态语言，可能增加运行时错误</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;过程-amp-对象&quot;&gt;&lt;a href=&quot;#过程-amp-对象&quot; class=&quot;headerlink&quot; title=&quot;过程&amp;amp;对象&quot;&gt;&lt;/a&gt;&lt;strong&gt;过程&amp;amp;对象&lt;/strong&gt;&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;面向过程：按步骤用函数实现，依次调用。</summary>
+      
+    
+    
+    
+    <category term="八股文" scheme="http://example.com/categories/%E5%85%AB%E8%82%A1%E6%96%87/"/>
+    
+    
+    <category term="概念" scheme="http://example.com/tags/%E6%A6%82%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自我介绍</title>
+    <link href="http://example.com/2023/09/18/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+    <id>http://example.com/2023/09/18/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</id>
+    <published>2023-09-18T08:13:50.736Z</published>
+    <updated>2023-09-18T08:35:02.810Z</updated>
+    
+    <content type="html"><![CDATA[<p>您好，<br>我14年毕业，大学专业是计算机科学与技术，毕业入职到成都软通动力；<br>相继做过桌面工具、web应用、微服务、爬虫等业务开发，持续交付项目5个，优秀owner；<br>带队期间培养骨干7人，期间没有人员流失；交付能力也得到华为认可。<br>感触比较深的就是华为的标准化流程及结果导向责任制，也加深了自己对于工作任务的使命感。<br>私下则喜欢研究一些新出的三方工具，写下博客；运动&amp;旅游。<br>最后，我也一直在坚持持续学习以及和培养换位思考的习惯。<br>我的介绍完了，谢谢。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;您好，&lt;br&gt;我14年毕业，大学专业是计算机科学与技术，毕业入职到成都软通动力；&lt;br&gt;相继做过桌面工具、web应用、微服务、爬虫等业务开发，持续交付项目5个，优秀owner；&lt;br&gt;带队期间培养骨干7人，期间没有人员流失；交付能力也得到华为认可。&lt;br&gt;感触比较深的就是华</summary>
+      
+    
+    
+    
+    <category term="其他" scheme="http://example.com/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+    <category term="介绍" scheme="http://example.com/tags/%E4%BB%8B%E7%BB%8D/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

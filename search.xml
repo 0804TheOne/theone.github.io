@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>python基础</title>
+      <link href="/2023/09/18/python%E5%9F%BA%E7%A1%80/"/>
+      <url>/2023/09/18/python%E5%9F%BA%E7%A1%80/</url>
+      
+        <content type="html"><![CDATA[<h1 id="过程-amp-对象"><a href="#过程-amp-对象" class="headerlink" title="过程&amp;对象"></a><strong>过程&amp;对象</strong></h1><ul><li>面向过程：按步骤用函数实现，依次调用。</li><li>面向对象：事务分解成对象，并为其建立相应的行为。特点是 封装、继承、多态</li></ul><h1 id="Python优缺点"><a href="#Python优缺点" class="headerlink" title="Python优缺点"></a><strong>Python优缺点</strong></h1><ul><li>免费开源可移植</li><li>自动内存管理</li><li>解释型语言简单易懂、但运行速度慢。</li><li>库丰富，可扩展，与其他语言或软件可连接；由于是动态语言，可能增加运行时错误</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 八股文 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 概念 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>自我介绍</title>
+      <link href="/2023/09/18/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+      <url>/2023/09/18/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</url>
+      
+        <content type="html"><![CDATA[<p>您好，<br>我14年毕业，大学专业是计算机科学与技术，毕业入职到成都软通动力；<br>相继做过桌面工具、web应用、微服务、爬虫等业务开发，持续交付项目5个，优秀owner；<br>带队期间培养骨干7人，期间没有人员流失；交付能力也得到华为认可。<br>感触比较深的就是华为的标准化流程及结果导向责任制，也加深了自己对于工作任务的使命感。<br>私下则喜欢研究一些新出的三方工具，写下博客；运动&amp;旅游。<br>最后，我也一直在坚持持续学习以及和培养换位思考的习惯。<br>我的介绍完了，谢谢。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 其他 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 介绍 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/09/13/hello-world/"/>
       <url>/2023/09/13/hello-world/</url>
